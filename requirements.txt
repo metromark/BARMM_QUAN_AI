@@ -1,3 +1,4 @@
 streamlit==0.56.0
 ktrain
 tensorflow==2.2.1
+wikipedia
